@@ -33,8 +33,4 @@ cacheSolve <- function(x, ...) {
   i <- solve(data, ...)
   x$setinv(i)
   i
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 479906be760cf94678a748ae52c6bcde3ad100a7
